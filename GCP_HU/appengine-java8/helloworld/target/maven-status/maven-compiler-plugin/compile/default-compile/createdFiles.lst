@@ -1,0 +1,12 @@
+com\example\appengine\java8\controller\HelloController.class
+com\example\appengine\java8\converter\BallConverter.class
+com\example\appengine\java8\request\BallRequest.class
+com\example\appengine\java8\service\FirestoreService.class
+com\example\appengine\java8\controller\FirestoreController.class
+com\example\appengine\java8\repository\BallRepository.class
+com\example\appengine\java8\HelloAppEngine.class
+com\example\appengine\java8\response\BallResponse.class
+com\example\appengine\java8\service\BallService.class
+com\example\appengine\java8\controller\BallController.class
+com\example\appengine\java8\repository\FirestoreRepository.class
+com\example\appengine\java8\entities\Ball.class
